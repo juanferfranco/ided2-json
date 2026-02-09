@@ -1,0 +1,198 @@
+{
+  "programa": "Ingeniería en Diseño de Entretenimiento Digital",
+  "version": "2.0",
+  "estructura_curricular": {
+    "tronco_comun": {
+      "semestre_1": {
+        "total_creditos": 17,
+        "asignaturas": [
+          { "nombre": "Taller 1: Procesos creativos", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Narrativa literaria e hipertextual", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Dibujo creativo", "area": "CD", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Introducción a Ingeniería en DED", "area": "DIS", "horas_semana": 2, "creditos": 1 },
+          { "nombre": "Cálculo diferencial", "area": "CB", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Geometría analítica", "area": "CB", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Humanismo y cultura ciudadana", "area": "HUM", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Lengua y cultura", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+        ]
+      },
+      "semestre_2": {
+        "total_creditos": 18,
+        "asignaturas": [
+          { "nombre": "Taller 2: Métodos de diseño", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Fundamentos de programación", "area": "IS", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Fundamentos de arte digital", "area": "CD", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Introducción al game design", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Cálculo integral", "area": "CB", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Física mecánica", "area": "CB", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Ética general", "area": "HUM", "horas_semana": 2, "creditos": 1 },
+          { "nombre": "Emprendimiento y responsabilidad social", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+        ]
+      },
+      "semestre_3": {
+        "total_creditos": 18,
+        "asignaturas": [
+          { "nombre": "Taller 3: Diseño en contexto", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Programación y diseño orientado a objetos", "area": "IS", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Procesos cognitivos", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Introducción a la animación", "area": "CD", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Producción de audio", "area": "CD", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Métodos experimentales en física", "area": "CB", "horas_semana": 2, "creditos": 2 },
+          { "nombre": "Algebra lineal", "area": "CB", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Cristología", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+        ]
+      },
+      "semestre_4": {
+        "total_creditos": 17,
+        "asignaturas": [
+          { "nombre": "Taller 4: Diseño de producto", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Sistemas computacionales", "area": "IS", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Sistemas físicos interactivos", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Animación digital", "area": "CD", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Diseño sonoro", "area": "CD", "horas_semana": 4, "creditos": 2 },
+          { "nombre": "Metodología de la investigación", "area": "INV", "horas_semana": 2, "creditos": 1 },
+          { "nombre": "Modelamiento matemático", "area": "CB", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Optativa CBD", "area": "CB", "horas_semana": 4, "creditos": 3 }
+        ]
+      }
+    },
+    "enfasis": {
+      "animacion_experiencias_visuales": {
+        "semestre_5": {
+          "total_creditos": 17,
+          "asignaturas": [
+            { "nombre": "Taller 5: Animación", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Scripting", "area": "IS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño de interfaces y UX", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Modelado de personajes 3D", "area": "CD", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño de personajes", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Rigging", "area": "CD", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Historia y tendencias DED", "area": "DIS", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Procesos estocásticos", "area": "CB", "horas_semana": 4, "creditos": 3 }
+          ]
+        },
+        "semestre_6": {
+          "total_creditos": 18,
+          "asignaturas": [
+            { "nombre": "Taller 6: Animación", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Simulación para sistemas interactivos", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Animación digital 2", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Motion capture aplicado", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño y cultura", "area": "DIS", "horas_semana": 4, "creditos": 3 },
+            { "nombre": "Gestión y realización de proyectos DED", "area": "GES", "horas_semana": 4, "creditos": 3 },
+            { "nombre": "Ética profesional", "area": "HUM", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Línea de formación 1", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+          ]
+        },
+        "semestre_7": {
+          "total_creditos": 16,
+          "asignaturas": [
+            { "nombre": "Taller 7: Entretenimiento digital", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Texturización", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Visualización y diseño de información", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Composición digital y posproducción", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Computación gráfica", "area": "CD", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Contexto profesional", "area": "PRA", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Optativa CP", "area": "OP", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Línea de formación 2", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+          ]
+        }
+      },
+      "video_juegos": {
+        "semestre_5": {
+          "total_creditos": 17,
+          "asignaturas": [
+            { "nombre": "Taller 5: Video Juegos", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Scripting", "area": "IS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño de interfaces y UX", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Game Studies", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño de personajes", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Balance, economía y comunidades", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Historia y tendencias DED", "area": "DIS", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Procesos estocásticos", "area": "CB", "horas_semana": 4, "creditos": 3 }
+          ]
+        },
+        "semestre_6": {
+          "total_creditos": 18,
+          "asignaturas": [
+            { "nombre": "Taller 6: Video Juegos", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Simulación para sistemas interactivos", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Computación gráfica", "area": "CD", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño adaptable", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño y cultura", "area": "DIS", "horas_semana": 4, "creditos": 3 },
+            { "nombre": "Gestión y realización de proyectos DED", "area": "GES", "horas_semana": 4, "creditos": 3 },
+            { "nombre": "Ética profesional", "area": "HUM", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Línea de formación 1", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+          ]
+        },
+        "semestre_7": {
+          "total_creditos": 16,
+          "asignaturas": [
+            { "nombre": "Taller 7: Entretenimiento digital", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Realidad virtual y aumentada", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Visualización y diseño de información", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Sistemas interactivos distribuidos", "area": "IS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Animación para videojuegos", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Contexto profesional", "area": "PRA", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Optativa CP", "area": "OP", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Línea de formación 2", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+          ]
+        }
+      },
+      "experiencias_interactivas": {
+        "semestre_5": {
+          "total_creditos": 17,
+          "asignaturas": [
+            { "nombre": "Taller 5: Experiencias Interactivas", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Scripting", "area": "IS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño de interfaces y UX", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Prototipado 3D", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Sistemas físicos interactivos 2", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Gamification", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Historia y tendencias DED", "area": "DIS", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Procesos estocásticos", "area": "CB", "horas_semana": 4, "creditos": 3 }
+          ]
+        },
+        "semestre_6": {
+          "total_creditos": 18,
+          "asignaturas": [
+            { "nombre": "Taller 6: Experiencias Interactivas", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Simulación para sistemas interactivos", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Visión artificial", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Mecanismos", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño y cultura", "area": "DIS", "horas_semana": 4, "creditos": 3 },
+            { "nombre": "Gestión y realización de proyectos DED", "area": "GES", "horas_semana": 4, "creditos": 3 },
+            { "nombre": "Ética profesional", "area": "HUM", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Línea de formación 1", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+          ]
+        },
+        "semestre_7": {
+          "total_creditos": 16,
+          "asignaturas": [
+            { "nombre": "Taller 7: Entretenimiento digital", "area": "DIS, MAT, GES", "horas_semana": 6, "creditos": 3 },
+            { "nombre": "Realidad virtual y aumentada", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Visualización y diseño de información", "area": "MAT", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Sistemas interactivos distribuidos", "area": "IS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Diseño de interfaces y UX 2", "area": "DIS", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Contexto profesional", "area": "PRA", "horas_semana": 2, "creditos": 1 },
+            { "nombre": "Optativa CP", "area": "OP", "horas_semana": 4, "creditos": 2 },
+            { "nombre": "Línea de formación 2", "area": "HUM", "horas_semana": 4, "creditos": 2 }
+          ]
+        }
+      }
+    },
+    "final": {
+      "semestre_8": {
+        "total_creditos": 17,
+        "asignaturas": [
+          { "nombre": "Práctica, proyecto o emprendimiento", "area": "PRA", "horas_semana": "Variable", "creditos": 11 },
+          { "nombre": "Electiva universitaria", "area": "EL", "horas_semana": 4, "creditos": 3 },
+          { "nombre": "Optativa CI", "area": "OP", "horas_semana": 4, "creditos": 3 }
+        ]
+      }
+    }
+  },
+  "resumen": {
+    "creditos_flexibles": 15
+  }
+}
